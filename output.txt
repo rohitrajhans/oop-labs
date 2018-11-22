@@ -1,0 +1,4 @@
+Number of heads: 7
+Number of tails: 3
+Number of heads: 6
+Number of tails: 4
